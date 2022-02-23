@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabe
 - 👀 I’m interested in software, faith, health, chess, baseball, WW2 history, and board games
-- 🌱 I’m currently learning algorithms
+- 🌱 I’m currently learning comp sci concepts I should've known years ago
 - 📫 Reach me at gabrielg4@gmail.com
 
 <!---
